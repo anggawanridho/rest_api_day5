@@ -59,7 +59,10 @@ async function loginUser(req, res) {
 async function listUser(req, res) {
     try {
         const allUsers = await UserModel.listAllUsers(); // Fetch all users logic
-        res.status(200).json(allUsers);
+        res.status(200).json({
+            message: 'List of users',
+            allUsers
+        });
     } catch (error) {
         res.status(500).json({ error: "An error occurred", message: `${error.message}` });
     }

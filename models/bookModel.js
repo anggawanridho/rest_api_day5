@@ -140,11 +140,39 @@ function getAllBooks() {
     return books;
 }
 
+function getBookById(id) {
+    return books.find(book => book.id === id);
+}
+
+function addBook(book) {
+    const newBook = { id: books.length + 1, ...book};
+    books.push(newBook);
+    return newBook;
+}
+
+function updateBook(id, updatedBook) {
+    const index = books.findIndex(book => book.id === id);
+    if (index !== -1) {
+        books[index] = { ...books[index], ...updatedBook };
+        return books[index];
+    }
+    return null;
+}
+
+function deleteBook(id) {
+    const index = books.findIndex(book => book.id === id);
+    if (index !== -1) {
+        const deletedBook = books.splice(index, 1)[0];
+        return deletedBook;
+    }
+    return null;
+}
+
 
 module.exports = {
     getAllBooks,
-    // getBookById,
-    // addBook,
-    // updateBook,
-    // deleteBook
+    getBookById,
+    addBook,
+    updateBook,
+    deleteBook
 };
