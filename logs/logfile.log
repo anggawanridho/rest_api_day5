@@ -290,4 +290,672 @@ Request Body: {
 Method: POST
 URL: /login/
 Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T12:46:11.462Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"d901285e-f41c-41a2-9919-f9b51a535a03","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:48:40.143Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"09528a02-bcd0-4d34-b22d-029fa2460b0a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:49:11.906Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"366630ad-93d2-47a0-b9f6-b1aba89416b8","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:49:44.189Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6f58ea72-5116-4296-9821-9850e07f2fdc","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:50:53.392Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e3473eca-72da-4818-a4cb-63b95efcd931","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:51:54.815Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"bc75d276-e76e-44a4-b08c-56e7a24234c5","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:53:15.364Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"7897f3cc-afcc-4d3d-92dc-82a9c63a4bca","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:55:45.227Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"ad340d5e-98d7-44a6-a084-e10130f4508c","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:55:56.885Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"8c083e9e-c56d-435c-8425-175631a9e560","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T12:56:00.454Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6bf9f35f-539e-43f8-a497-042c0001fe6b","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T12:56:01.227Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"767d94b2-860e-4ddc-9a11-2a8699c9f8f8","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T12:57:26.727Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"ee6cc41f-364d-44c3-8428-e7728a176b4b","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T12:58:04.478Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e84a27d8-cf9b-44b9-a1d7-e82f060ed23d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T12:58:36.261Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"952c7b3e-ab64-4b6e-ab8c-bf0e1c13a1b9","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T12:58:51.071Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"25fd69cc-3549-409d-a8b0-ecf1504ee564","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:15:48.334Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6b37e83f-6461-437c-8959-8d7ecebf5ecb","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:15:51.987Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"61787761-eb23-4d12-bade-b8ef5f237bf3","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T13:15:55.232Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e258fcc6-46b5-4557-89f5-9e9103221d4c","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:16:49.143Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"d7007742-b9fd-4e36-8b95-bb6012b6b961","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:17:56.403Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"029958e5-ef0c-4f73-86c0-ebafc92d5c3a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /users
+Full URL: http://localhost:3000/user/users
+-----------------------------------------------[2023-08-29T13:18:12.955Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"57eecaaf-fd6e-4a74-aebe-49a07c17043a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:18:31.053Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"97f1bc1d-265d-4e5b-befc-aa23ae945c1d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"23"}
+Request Body: {
+  "role": "admin"
+}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:19:56.140Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTAwOSwiZXhwIjoxNjkzMzE4NjA5fQ.0aIPBXuWCjP5NIhFChA7ytxzKAEN3Jg3UjdxP_pQqfA","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"d592455c-32cb-4ef8-9efb-ca3eac9ccd38","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:20:47.757Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"3ff42085-c564-4495-a8f8-5b6c3156c442","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:20:56.933Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"18a565c2-f99e-49c3-939d-38e59303b2ab","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:21:00.799Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"3cedf4a6-24c9-4931-93e3-9d15c7cf2a45","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T13:21:03.549Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"0aae6035-db16-4f0f-900b-244dea9e10bd","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:21:15.087Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"f499f056-4f4e-4fac-8075-e76cac4b3995","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:21:22.540Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"13139a99-7f95-4b02-a6da-479dba89925a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:21:37.835Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"3b5d6625-efcb-49b2-bde4-50968ebc1f43","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:21:40.586Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"bab9ad46-45ad-47b4-bb92-0ca6a7ea4ddc","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:21:42.492Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"405965d0-f360-41ef-b9e5-9d890da56c2a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:21:44.364Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"a8abd523-9151-40db-993b-1c9e52655ab4","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:23:54.692Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"001ca63d-220e-483f-a849-1f455cd5f113","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:23:57.735Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"82a39986-314d-4f9a-b2b7-08b0c8fd4ecd","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:24:20.967Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6c0cb376-8eb6-406f-ab8f-92f0d0f3f3bf","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:24:45.894Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"11348728-3752-4054-8ecc-b7d88b169410","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:24:49.114Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"b82f014f-31c8-4212-8b1e-4426607d4d59","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:25:00.576Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"40d88727-8f05-466b-b5b0-821345b418d8","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:25:32.474Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"17f2d629-defb-4736-a956-84bfa1f2f8e4","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T13:25:34.776Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"2a6b3dd0-1648-448d-9189-871d494f62f4","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:25:46.465Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"69c07026-61b3-48bc-ba1a-d12217fcf859","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:26:25.010Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"5c642c22-7b14-4dee-9e77-05f68cf9e7a6","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T13:26:28.105Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"f39a0778-5a09-4169-939d-318f37379251","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:26:36.572Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"4f4e20e8-177e-40dd-9511-52178df076bd","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:26:41.877Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"83d3b16e-79c9-4f27-917f-e997cc8dc3cf","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:26:42.731Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"2ea58804-992f-4375-94c2-749ead0f8c1c","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
+-----------------------------------------------[2023-08-29T13:27:56.502Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6ead2134-ef25-4fe3-973f-40abbca9ce50","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"79"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T13:28:21.244Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"28b73199-143a-4c9c-bd10-9fa6f8a58a19","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"83"}
+Request Body: {
+  "username": "hailhitler",
+  "password": "hailhitler",
+  "role": "admin"
+}
+Method: POST
+URL: /register/
+Full URL: http://localhost:3000/user/register/
+-----------------------------------------------[2023-08-29T13:28:26.393Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"527f8e58-6790-4565-81af-4b96ebe8af4c","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"58"}
+Request Body: {
+  "username": "hitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:28:32.351Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"4fb1793c-c6dc-4d63-ba09-53b780ceac88","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"62"}
+Request Body: {
+  "username": "hitlesadfr",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:28:41.145Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e780a531-50cf-4690-bae7-22d5fc6e04f9","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"60"}
+Request Body: {
+  "username": "hitler",
+  "password": "haisslhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:28:54.072Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"content-type":"application/json","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"21e630c5-6840-4133-8e95-2ead35d88a76","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"62"}
+Request Body: {
+  "username": "hailhitler",
+  "password": "hailhitler"
+}
+Method: POST
+URL: /login/
+Full URL: http://localhost:3000/user/login/
+-----------------------------------------------[2023-08-29T13:29:06.849Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhpdGxlciIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY5MzMxNTI2MywiZXhwIjoxNjkzMzE4ODYzfQ.WaUYp-txvE1bdsXfFv3mYZ8AvAZhr0xDRZyxI3oZBAk","user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"b5d4d75d-1b5e-433b-95bb-c7ce982588f3","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /
+Full URL: http://localhost:3000/user/
 -----------------------------------------------

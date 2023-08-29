@@ -5,28 +5,32 @@ const secretKey = `mySecretKeyIsMyDogsName`;
 
 async function registerUser(req, res) {
     try {
-        const {username, password, role} = req.body;
+        const { username, password, role } = req.body;
 
         const hashedPassword = await bcrypt.hash(password, 10);
 
-        UserModel.push({
+        const result = await UserModel.push({
             username,
             password: hashedPassword,
             role
-        })
+        });
 
-        res.status(201).json({
-            message: 'User created'
-        })
-    } catch (err) {
-        res.status(500).json({ error: "An error occurred", message: `${error.message}` }); 
+        return res.status(201).json({
+            message: 'User created',
+            result: {
+                username: result.username,
+                id: result.id
+            }
+        });
+    } catch (error) {
+        res.status(500).json({ error: "An error occurred", message: `${error.message}` });
     }
 }
 
 async function loginUser(req, res) {
     try {
         const {username, password} = req.body;
-        const user = UserModel.find(user => user.username === username);
+        const user = await UserModel.findUser(username);
         if (!user) {
             return res.status(400).json({
                 message: 'Authentication Failed, user not found'
@@ -52,12 +56,20 @@ async function loginUser(req, res) {
     }
 }
 
+async function listUser(req, res) {
+    try {
+        const allUsers = await UserModel.listAllUsers(); // Fetch all users logic
+        res.status(200).json(allUsers);
+    } catch (error) {
+        res.status(500).json({ error: "An error occurred", message: `${error.message}` });
+    }
+}
 
 
 module.exports = {
     loginUser,
     registerUser,
-    // addNewBook,
+    listUser,
     // updateExistingBook,
     // removeBook
 };

@@ -7,6 +7,7 @@ const router = express.Router();
 
 router.use(loggingMiddleware);
 
+router.get('/', roleMiddleware('admin'), userController.listUser);
 router.post('/login', userController.loginUser);
 router.post('/register', userController.registerUser);
 
